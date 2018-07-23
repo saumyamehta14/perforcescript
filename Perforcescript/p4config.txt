@@ -1,0 +1,4 @@
+P4PORT=perforceserver1.pgdev.sap.corp:1971
+P4USER=i863772
+P4PASSWD=Saumoni1
+P4CLIENT=GTLC_PLX475_SMEHTA
